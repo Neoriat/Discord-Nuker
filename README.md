@@ -41,7 +41,7 @@
 
 ### Windows: 
 - Click on the "Code" Button on this repo and download ZIP
-- Extract zip
+- Extract the zip
 - Open a terminal and paste this code in it:
 ```bash
 pip install -r requirements.txt; python main.python
